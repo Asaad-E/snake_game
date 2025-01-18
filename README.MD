@@ -1,5 +1,9 @@
 # Snake Game
 
+<!-- add img with custom width-->
+
+<img src="./media/img.png" width="350px">
+
 ## Description
 
 A simple snake game implemented in Python. The objective of the game is to control the snake to eat food and grow in length without colliding with itself.
