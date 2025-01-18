@@ -6,7 +6,7 @@
 
 ## Description
 
-A simple snake game implemented in Python. The objective of the game is to control the snake to eat food and grow in length without colliding with itself.
+A simple snake game implemented in Python. The objective of the game is to control the snake to eat food and grow in length without colliding with its own body.
 
 ## Installation
 
